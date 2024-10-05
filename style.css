@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: rgba(134, 164, 197, 0.364);
+}
+
+#search-results {
+    margin-top: 20px;
+}
+
+.product {
+    margin-bottom: 10px;
+}
+
+input{
+    border-radius: 8px;
+    height: 28px;
+}
+
+button{
+    border-radius: 8px;
+    height: 32px;
+}
