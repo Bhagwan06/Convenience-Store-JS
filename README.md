@@ -24,23 +24,6 @@ You can check out the project's live version https://bhagwan06.github.io/Conveni
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/convenience-store-search.git
-).
 
-## Features
-
-- **Product Search**: Users can search for products by name.
-- **Real-time Filtering**: The app filters the product list as the user types.
-- **Product Display**: Matching products are displayed with their names and prices.
-- **Responsive Design**: The layout is simple and responsive.
-
-## Technologies Used
-
-- **HTML**: For structuring the webpage.
-- **CSS**: For styling the webpage.
-- **JavaScript**: For adding interactivity and search functionality.
-
-## How to Use
-
-1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/convenience-store-search.git
