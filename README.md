@@ -17,7 +17,7 @@ You can check out the project's live version https://bhagwan06.github.io/Conveni
 
 - **HTML**: For structuring the webpage.
 - **CSS**: For styling the webpage.
-- **JavaScript**: For adding interactivity and search functionality.
+- **JavaScript**: This is for adding interactivity and search functionality.
 
 ## How to Use
 
