@@ -10,7 +10,7 @@ A simple web-based application allows users to search for products from a conven
 
 ## Live Preview
 
-You can check out the project's live version [here](https://yourusername.github.io/convenience-store-search/).
+You can check out the project's live version https://bhagwan06.github.io/Convenience-Store-JS/.
 
 ## Features
 
