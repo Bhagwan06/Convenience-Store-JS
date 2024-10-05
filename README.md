@@ -4,12 +4,6 @@ A simple web-based application allows users to search for products from a conven
 
 ## Live Preview
 
-You can check out the project's live version [here](# Convenience Store Search
-
-A simple web-based application allows users to search for products from a convenience store inventory. It filters the product list based on the user's input and displays matching items.
-
-## Live Preview
-
 You can check out the project's live version https://bhagwan06.github.io/Convenience-Store-JS/.
 
 ## Features
